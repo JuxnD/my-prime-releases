@@ -2,7 +2,7 @@
 
 Canal público de distribución de My Prime para Android. El código fuente permanece privado.
 
-La primera publicación de este canal está en preparación. Las entregas estarán en [Releases](https://github.com/JuxnD/my-prime-releases/releases), con su APK, notas de versión, manifiesto de identidad y SHA-256.
+Las entregas de este canal se publican en [Releases](https://github.com/JuxnD/my-prime-releases/releases), con su APK, notas de versión, manifiesto de identidad y SHA-256.
 
 ## Primera instalación en este canal
 
